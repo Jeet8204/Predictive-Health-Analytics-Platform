@@ -19,6 +19,7 @@ The repository includes:
 ---
 
 ## 📂 Project Structure
+```
 .
 ├── app.py # Streamlit app
 ├── requirements.txt # Dependencies
@@ -27,6 +28,8 @@ The repository includes:
 ├── Multiple disease prediction system - Parkinsons.ipynb
 ├── datasets/ # (Place datasets here if not included)
 └── README.md
+
+```
 
 yaml
 Copy code
@@ -81,3 +84,4 @@ Add more diseases
 Improve accuracy with advanced ML/DL models
 
 Deploy on Streamlit Cloud / Hugging Face Spaces
+
