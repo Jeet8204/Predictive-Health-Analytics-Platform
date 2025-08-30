@@ -1,4 +1,4 @@
-# 🩺 Multiple Disease Prediction Streamlit App
+# 🩺 Predictive-Health-Analytics-Platform
 
 This repository contains a **Streamlit-based web application** that predicts the likelihood of multiple diseases — **Diabetes, Heart Disease, and Parkinson’s Disease** — using trained machine learning models.  
 
@@ -86,5 +86,6 @@ Add more diseases
 Improve accuracy with advanced ML/DL models
 
 Deploy on Streamlit Cloud / Hugging Face Spaces
+
 
 
