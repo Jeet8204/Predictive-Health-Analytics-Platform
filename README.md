@@ -44,22 +44,23 @@ Copy code
    cd multiple-disease-prediction-streamlit-app
 Create virtual environment (recommended)
 
-bash
+```bash
 Copy code
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 Install dependencies
 
-bash
+```bash
 Copy code
 pip install -r requirements.txt
 Run the app
 
-bash
+```bash
 Copy code
 streamlit run app.py
-📒 Notebooks
+----
+##📒 Notebooks
 The repository provides training notebooks for each disease:
 
 Diabetes Prediction → Multiple disease prediction system - diabetes.ipynb
@@ -69,8 +70,9 @@ Heart Disease Prediction → Multiple disease prediction system - heart.ipynb
 Parkinson’s Disease Prediction → Multiple disease prediction system - Parkinsons.ipynb
 
 👉 You may need to install additional libraries (e.g., scikit-learn, numpy, pandas, matplotlib) when running notebooks.
+----
 
-🧠 Models Used
+## 🧠 Models Used
 Diabetes → Logistic Regression
 
 Heart Disease → Logistic Regression
@@ -84,4 +86,5 @@ Add more diseases
 Improve accuracy with advanced ML/DL models
 
 Deploy on Streamlit Cloud / Hugging Face Spaces
+
 
